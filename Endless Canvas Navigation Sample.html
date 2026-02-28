@@ -6,27 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Endless Canvas Navigation</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap">
 </head>
 
 <body>
-  <canvas id="canvas"></canvas>
-  <script src="script.js"></script>
+  <div id="root"></div>
 
-  <div id="contextMenu" style="
-  display: none;
-  position: absolute;
-  background: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  padding: 6px 12px;
-  font-family: Arial;
-  z-index: 1000;
-  transition: opacity 0.2s ease;
-">
-    <button class="tabBtn">Info</button>
-    <button class="tabBtn">Edit</button>
-    <button class="tabBtn">More</button>
-  </div>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script type="text/babel" src="etymure.jsx"></script>
 
 </body>
 
