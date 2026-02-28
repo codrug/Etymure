@@ -16,7 +16,7 @@
 - **Context-Aware Imagery**: Every card is paired with thematic visuals that reflect the specific word and its history.
 - **Robust Exploration**: Use the **Random** button to discover rare vocabulary or the **Test** button for instant demonstrations.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - A modern web browser.
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React (v18), ReactDOM
 - **Styling**: Custom CSS3 with hardware-accelerated animations
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧭 Navigation Tips
+## Navigation Tips
 
 - **Search**: Type any word in the header to create a new cluster.
 - **Pan**: Right-click and drag to move across the infinite canvas.
