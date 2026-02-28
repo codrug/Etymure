@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Infinite Spatial Canvas**: Explore words as interconnected clusters in a fluid, draggable workspace.
 - **Multi-Dimensional Insight**:
