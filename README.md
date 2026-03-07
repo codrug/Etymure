@@ -8,13 +8,10 @@
 
 - **Infinite Spatial Canvas**: Explore words as interconnected clusters in a fluid, draggable workspace.
 - **Multi-Dimensional Insight**:
-  - **Etymology**: Trace roots back to Ancient Greek, Latin, Proto-Indo-European, and beyond.
+  - **Etymology**: Trace back the word roots to Ancient Greek, Latin, Proto-Indo-European, and beyond.
   - **Historical Timeline**: Visualize semantic shifts and milestones through the centuries.
   - **Literary References**: Discover evocative quotes from classic and contemporary literature.
   - **Related Concepts**: Explore thematic cousins, synonyms, and antonyms to expand your vocabulary.
-- **AI-Powered Discovery**: Driven by the **Google Gemini API**, providing scholarly yet engaging content in real-time.
-- **Context-Aware Imagery**: Every card is paired with thematic visuals that reflect the specific word and its history.
-- **Robust Exploration**: Use the **Random** button to discover rare vocabulary or the **Test** button for instant demonstrations.
 
 ## Getting Started
 
@@ -44,7 +41,7 @@
 
 - **Frontend**: React (v18), ReactDOM
 - **Styling**: Custom CSS3 with hardware-accelerated animations
-- **AI Engine**: Google Gemini API (1.5 Flash, 2.0 Flash, 3.0 Flash fallback system)
+- **AI Engine**: Google Gemini API
 - **Imagery**: Dynamic sourcing via Unsplash and LoremFlickr
 
 ---
@@ -54,8 +51,4 @@
 - **Search**: Type any word in the header to create a new cluster.
 - **Pan**: Right-click and drag to move across the infinite canvas.
 - **Zoom**: Use the scroll wheel or the floating controls to dive into details.
-- **Organize**: Drag the handle at the top of any card to reposition it. Overlaps are resolved automatically via force repulsion!
-
----
-
-*“Words are the small visible part of a gigantic invisible architecture.”*
+- **Organize**: Drag the handle at the top of any card to reposition it.
