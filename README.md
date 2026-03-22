@@ -1,6 +1,12 @@
+<div align="center">
+  
 # etym*ure*
 
+<p>
 **Etymure** is an immersive, AI-powered spatial etymology explorer. It transforms word discovery into a visual journey, mapping the history, meaning, and literary impact of language across an infinite digital canvas.
+</p>
+
+</div>
 
 ---
 
